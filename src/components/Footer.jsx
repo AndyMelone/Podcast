@@ -9,7 +9,7 @@ export default function Footer  ()  {
       marginTop: "20px",
     }}>
       <p style={{ margin: 0 }}>
-        © 2024 Mon Site Web. Tous droits réservés.
+        ©  Tous droits réservés.
       </p>
     </footer>
   );

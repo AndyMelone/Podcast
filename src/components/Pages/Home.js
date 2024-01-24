@@ -17,6 +17,7 @@ export const Home = () => {
   };
 
   return (
+    <div>
     <div style={{
       width: "80%",
       display: "flex",
@@ -169,6 +170,7 @@ export const Home = () => {
 
       </div>
 
+    </div>
 <Footer />
     </div>
   );

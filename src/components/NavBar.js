@@ -11,12 +11,11 @@ function NavBar() {
     <>
       <nav className="navbar">
         <div className="nav-container">
-          <NavLink exact to="/" className="nav-logo" >
+          <NavLink exact to="/" className="nav-logo">
             <span> HumanBot</span>
             {/* <i className="fas fa-code"></i> */}
             <span className="icon">
               <CodeIcon />
-              
             </span>
           </NavLink>
 
@@ -32,9 +31,28 @@ function NavBar() {
                 Home
               </NavLink>
             </li>
-          
-         
-         
+            <li className="nav-item">
+              <NavLink
+                exact
+                to="/Podcast"
+                activeClassName="active"
+                className="nav-links"
+                onClick={handleClick}
+              >
+                Podcast
+              </NavLink>{" "}
+            </li>
+            <li className="nav-item">
+              <NavLink
+                exact
+                to="/Participants"
+                activeClassName="active"
+                className="nav-links"
+                onClick={handleClick}
+              >
+                Participants
+              </NavLink>{" "}
+            </li>
           </ul>
           <div className="nav-icon" onClick={handleClick}>
             {/* <i className={click ? "fas fa-times" : "fas fa-bars"}></i> */}

@@ -29,7 +29,7 @@ const user = [
   },
   {
     photo: "ncho.png",
-    nom: "N'cho boni  n'gbesso",
+    nom: "N'cho bony  n'gbesso",
     poste: "Directrice",
     description: "Description du Directeur Financier.",
   },

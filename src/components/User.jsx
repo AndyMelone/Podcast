@@ -3,7 +3,7 @@ import Participant from "./Participant";
 const user = [
   {
     photo: "lale.png",
-    nom: "Lale NY CHRIST",
+    nom: "Lale Ny Christ",
     poste: "Responsable de la communication",
     description: "",
   },
@@ -16,13 +16,13 @@ const user = [
   },
   {
     photo: "ncho.png",
-    nom: "Dr. N'cho boni n'gbesso marie",
+    nom: "Dr. N'cho Boni N'gbesso Marie Dominique Andrea",
     poste: "Responsable technique",
     description: "Titulaire d'un doctorat en ingénierie robotique de Telecom de Paris, le parcours académique impressionnant du Dr. N'CHO BONI reflète sa passion inébranlable pour la recherche de pointe. De retour en Côte d'Ivoire et aujourd'hui Responsable technique chez HumanBot, le Dr. N'CHO BONI occupe une position stratégique, guidant l'équipe technique dans la conception et le développement de robots dotés d'une intelligence artificielle avancée. Sa capacité à combiner sa grande connaissance technique avec une compréhension poussée des besoins pratiques du marché a vraiment été importante pour le succès de HumanBot",
   },
   {
     photo: "ndri.png",
-    nom: "N'DRI KOUAME OTHNIEL JUNIOR HERWAN",
+    nom: "N'dri Kouamé Othniel Junior Herwran",
     poste: "Directeur des ressources humaines",
     description: "N'DRI KOUAME OTHNIEL JUNIOR HERWAN, véritable prodige de l'école ivoirienne, a vu le jour le 15 août 1984. Son parcours académique débute au prestigieux lycée classique d'Abidjan, où sa brillance se révèle déjà. Après avoir triomphé au baccalauréat, Othniel Junior Herwan poursuit ses études en management et ressources humaines à l'illustre université canadienne d'Alberta, où il décroche avec éclat un Master dans cette discipline prestigieuse. Son talent exceptionnel ne passe pas inaperçu, et il fait ses premiers pas professionnels au sein de la banque d'affaires Standard Chartered, où il accumule six années d'expérience enrichissante. Sa renommée s'accroît encore davantage lorsqu'il est recruté par la Banque mondiale en tant que conseiller technique, chargé de la politique managériale du numérique et des ressources humaines. En janvier 2014, décidant de suivre sa voie, il présente sa démission et fait son retour triomphant dans son pays natal, la Côte d'Ivoire. À son retour, il intègre HumanBot en tant que Directeur des ressources humaines, un poste de haute responsabilité qu'il occupe avec éclat depuis lors, inscrivant ainsi son nom parmi les figures éminentes du monde professionnel ivoirien.",
   },

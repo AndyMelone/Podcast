@@ -16,9 +16,9 @@ const user = [
   },
   {
     photo: "ncho.png",
-    nom: "N'cho boni  n'gbesso",
+    nom: "Dr. N'cho boni n'gbesso marie",
     poste: "Responsable technique",
-    description: "Description du Directeur Financier.",
+    description: "Titulaire d'un doctorat en ingénierie robotique de Telecom de Paris, le parcours académique impressionnant du Dr. N'CHO BONI reflète sa passion inébranlable pour la recherche de pointe. De retour en Côte d'Ivoire et aujourd'hui Responsable technique chez HumanBot, le Dr. N'CHO BONI occupe une position stratégique, guidant l'équipe technique dans la conception et le développement de robots dotés d'une intelligence artificielle avancée. Sa capacité à combiner sa grande connaissance technique avec une compréhension poussée des besoins pratiques du marché a vraiment été importante pour le succès de HumanBot",
   },
   {
     photo: "ndri.png",

@@ -3,7 +3,7 @@ import Participant from "./Participant";
 const user = [
   {
     photo: "lale.png",
-    nom: "Lale (Nom complet)",
+    nom: "Lale NY CHRIST",
     poste: "Directeur Financier",
     description: "Description du Directeur Financier.",
   },

@@ -2,11 +2,10 @@ import Episode from "./Episode";
 import Participant from "./Participant";
 const user = [
   {
-    photo: "melone.png",
-    nom: "Kouassi Melone Andy",
-    poste: "Ingénieur Génie Logiciel",
-    description:
-      "Ingénieur logiciel chez HumanBot, je façonne l'avenir de la robotique en traduisant des concepts audacieux en réalités fonctionnelles. Mon expertise se situe à la convergence de l'intelligence artificielle, de la vision par ordinateur et du contrôle de mouvement, propulsant nos robots vers des performances exceptionnelles. Passionné par l'innovation, je relève les défis complexes avec créativité et précision, contribuant ainsi à redéfinir les possibilités de l'automatisation intelligente.",
+    photo: "lale.png",
+    nom: "Lale (Nom complet)",
+    poste: "Directeur Financier",
+    description: "Description du Directeur Financier.",
   },
   {
     photo: "nico.png",
@@ -16,10 +15,23 @@ const user = [
       "Visionnaire de la technologie spécialisé en ingénierie robotique et intelligence artificielle, M. Koua a dirigé des équipes chez des leaders technologiques, favorisant l'innovation tout en respectant des normes éthiques strictes. Reconnu pour son engagement envers la durabilité, il a façonné des solutions robotiques intelligentes, positionnant HumanBot comme un acteur éthique du secteur. Son leadership vise à humaniser la technologie, créant un impact positif sur la vie quotidienne et ouvrant de nouvelles perspectives pour la robotique et l'IA.",
   },
   {
+    photo: "ncho.png",
+    nom: "N'cho boni  n'gbesso",
+    poste: "Directrice",
+    description: "Description du Directeur Financier.",
+  },
+  {
     photo: "ndri.png",
     nom: "N'DRI KOUAME OTHNIEL JUNIOR HERWAN",
-    poste: "Développeur d'Application",
-    description: "Description du développeur d'application.",
+    poste: "Directeur des ressources humaines",
+    description: "N'DRI KOUAME OTHNIEL JUNIOR HERWAN, véritable prodige de l'école ivoirienne, a vu le jour le 15 août 1984. Son parcours académique débute au prestigieux lycée classique d'Abidjan, où sa brillance se révèle déjà.Après avoir triomphé au baccalauréat, Othniel Junior Herwan poursuit ses études en management et ressources humaines à l'illustre université canadienne d'Alberta, où il décroche avec éclat un Master dans cette discipline prestigieuse. Son talent exceptionnel ne passe pas inaperçu, et il fait ses premiers pas professionnels au sein de la banque d'affaires Standard Chartered, où il accumule six années d'expérience enrichissante.Sa renommée s'accroît encore davantage lorsqu'il est recruté par la Banque mondiale en tant que conseiller technique, chargé de la politique managériale du numérique et des ressources humaines. En janvier 2014, décidant de suivre sa voie, il présente sa démission et fait son retour triomphant dans son pays natal, la Côte d'Ivoire. À son retour, il intègre Humanbot en tant que Directeur des ressources humaines, un poste de haute responsabilité qu'il occupe avec éclat depuis lors, inscrivant ainsi son nom parmi les figures éminentes du monde professionnel ivoirien.",
+  },
+  {
+    photo: "melone.png",
+    nom: "Kouassi Melone Andy",
+    poste: "Ingénieur Génie Logiciel",
+    description:
+      "Ingénieur logiciel chez HumanBot, je façonne l'avenir de la robotique en traduisant des concepts audacieux en réalités fonctionnelles. Mon expertise se situe à la convergence de l'intelligence artificielle, de la vision par ordinateur et du contrôle de mouvement, propulsant nos robots vers des performances exceptionnelles. Passionné par l'innovation, je relève les défis complexes avec créativité et précision, contribuant ainsi à redéfinir les possibilités de l'automatisation intelligente.",
   },
   {
     photo: "meite.png",
@@ -27,18 +39,8 @@ const user = [
     poste: "Directeur Financier",
     description: "Description du Directeur Financier.",
   },
-  {
-    photo: "ncho.png",
-    nom: "N'cho bony  n'gbesso",
-    poste: "Directrice",
-    description: "Description du Directeur Financier.",
-  },
-  {
-    photo: "lale.png",
-    nom: "Lale (Nom complet)",
-    poste: "Directeur Financier",
-    description: "Description du Directeur Financier.",
-  },
+  
+  
 ];
 
 export default function User() {
